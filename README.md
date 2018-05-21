@@ -2,9 +2,14 @@
 
 ## This server runs with python3.
 ## to run the server simply type ""python3 __main__.py""
-## to change friendlyname, and network interface name please see __main__.py
+
+
+## to change friendlyname, and network interface name please see \_/_main__.py
+
+
 
 ## Below is from the original code
+
 
 ## Introduction
 
